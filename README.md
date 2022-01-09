@@ -18,6 +18,6 @@
 
 ### Activity
 <a href="https://github.com/zaher-aa">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zaher-aa&theme=dracula&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaher-aa&theme=dracula&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaher-aa&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaher-aa&theme=dracula&layout=compact" />
 </a>
