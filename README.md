@@ -32,9 +32,9 @@
 
 ## Activity
 <div style="display: flex; flex-direction: column; justify-content: center;">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zaher-aa&theme=dark&show_icons=true" />
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaher-aa&theme=dark&layout=compact" />
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaher-aa&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zaher-aa&theme=dracula&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaher-aa&theme=dracula&layout=compact" />
+  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=zaher-aa&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ## Statistics
