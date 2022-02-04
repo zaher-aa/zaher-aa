@@ -25,6 +25,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
 <img src="https://badges.aleen42.com/src/javascript.svg" />
+<img src="https://badges.aleen42.com/src/jest_1.svg" />
 <img src="https://badges.aleen42.com/src/eslint.svg" />
 ![api's](https://img.shields.io/badge/-API'S-333333?style=flat&logo=api's)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
