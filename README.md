@@ -18,6 +18,7 @@
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
 - 👨‍💻 Student in the 11th cohort of the [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) at GSG
+- 🔭 I'm currently learning Node.js
 
 
 ## Languages and Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
