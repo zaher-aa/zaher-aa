@@ -28,7 +28,7 @@
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
 <img src="https://img.shields.io/badge/-Eslint-4831B3?style=for-the-badge&logo=eslint&logoColor=white" />
@@ -50,5 +50,5 @@
 ## Statistics <img width="30" src="https://c.tenor.com/LSHKMiRdLggAAAAi/statistics-trending-up.gif" />
 
 <a href="https://github.com/zaher-aa?tab=followers"><img src="https://img.shields.io/github/followers/zaher-aa?label=Followers&style=social" /></a>
-<img src="https://img.shields.io/github/followers/zaher-aa?label=stars&style=social" />
+<img src="https://img.shields.io/github/stars/zaher-aa?label=stars&style=social" />
 <img src="https://komarev.com/ghpvc/?username=zaher-aa" />
