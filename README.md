@@ -1,16 +1,16 @@
 <h1 align="center">Hi, I'm Zaher, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
     <a href="https://www.facebook.com/ZaherAbuAmr">
-    <img src="https://badges.aleen42.com/src/facebook.svg" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
     <a href="https://codepen.io/Zaher-aa">
-    <img src="https://badges.aleen42.com/src/codepen.svg" />
+    <img src="https://img.shields.io/badge/-codepen-1C1C1C?style=for-the-badge&logo=codepen&logoColor=white" />
     </a>
     <a href="mailto:zaherabuamro@gmail.com?subject=Email From GitHub Account">
-    <img src="https://img.shields.io/badge/Gmail-zaherabuamro%40gmail.com-orange" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
     </a>
     <a href="https://www.freecodecamp.org/zaher-aa">
-    <img src="https://img.shields.io/badge/-freeCodeCamp-333333?style=flat&logo=freecodecamp" />
+    <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
 </p>
 
@@ -19,20 +19,24 @@
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
 - 👨‍💻 Student in the 11th cohort of the [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) at GSG
-- 🔭 I'm currently learning Node.js
+- 🔭 I'm currently learning the PERN stack
 
 
 ## Languages and Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=SASS)
-<img src="https://badges.aleen42.com/src/javascript.svg" />
-<img src="https://badges.aleen42.com/src/jest_1.svg" />
-<img src="https://badges.aleen42.com/src/eslint.svg" />
-![api's](https://img.shields.io/badge/-API'S-333333?style=flat&logo=api's)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-<img src="https://badges.aleen42.com/src/github.svg" />
-<img src="https://badges.aleen42.com/src/visual_studio_code.svg" />
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jest-914359?style=for-the-badge&logo=jest&logoColor=white" />
+<img src="https://img.shields.io/badge/-Eslint-4831B3?style=for-the-badge&logo=eslint&logoColor=white" />
+![Git](https://img.shields.io/badge/-Git-3A3A3A?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+![api's](https://img.shields.io/badge/-apis-3A3A3A?style=for-the-badge&logo=connect&logoColor=white)
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-0584C4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
 
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 <div align="center">
