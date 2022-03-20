@@ -1,5 +1,8 @@
 <h1 align="center">Hi, I'm Zaher, a Web Developer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
+    <a href="https://www.linkedin.com/in/zaherabuamr">
+    <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
     <a href="https://www.facebook.com/ZaherAbuAmr">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
     </a>
