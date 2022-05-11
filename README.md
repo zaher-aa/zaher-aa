@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-React%20Router%20Dom-%236CDBFD?style=for-the-badge&logo=reactrouter&logoColor=black" />
 <img src="https://img.shields.io/badge/-material%20ui-%23017FFE?style=for-the-badge&logo=mui&logoColor=white" />
+<img src="https://img.shields.io/badge/-ant%20design-%231F92FE?style=for-the-badge&logo=antdesign" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
