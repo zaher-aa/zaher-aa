@@ -18,11 +18,11 @@
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
-- ✨ Full-Stack JavaScript Developer
+- ✨ Full-Stack Web Developer capable of building Full-stack Web apps.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
 - 👨‍ [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate
-- 🔭 Interested in learning new technologies
+- 🔭 Open to learn new technologies
 
 
 ## Languages and Tools <img width="40" src="https://c.tenor.com/Pnb_hVWq2sgAAAAi/on-process-dig.gif" />
@@ -34,6 +34,7 @@
 <img src="https://img.shields.io/badge/-ReactJs-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/-REDUX-%23764EBC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/-React%20Router%20Dom-%236CDBFD?style=for-the-badge&logo=reactrouter&logoColor=black" />
+<img src="https://img.shields.io/badge/-firebase-%23EA800C?style=for-the-badge&logo=firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/-material%20ui-%23017FFE?style=for-the-badge&logo=mui&logoColor=white" />
 <img src="https://img.shields.io/badge/-ant%20design-%231F92FE?style=for-the-badge&logo=antdesign" />
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
