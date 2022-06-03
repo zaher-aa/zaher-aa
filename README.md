@@ -18,7 +18,7 @@
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
-- ✨ Full-Stack Web Developer capable of building Full-stack Web apps.
+- ✨ Full-Stack Web Developer.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
 - 👨‍ [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate
