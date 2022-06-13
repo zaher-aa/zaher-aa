@@ -18,7 +18,7 @@
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
-- See my [Portfolio](http://zaher.netlify.app)
+- 🎖 Check my [Portfolio](http://zaher.netlify.app)
 - ✨ Full-Stack Web Developer.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
 - 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
