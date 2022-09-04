@@ -21,8 +21,9 @@
 - 🎖 Check my [Portfolio](http://zaher.netlify.app)
 - ✨ Full-Stack Web Developer.
 - 👨‍🎓 Software Engineering student at [Al Azhar University](http://www.alazhar.edu.ps/eng/index.asp)
-- 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
+- 🔥 Google For Startups internship program Graduate round 4.3
 - 👨‍ [Career Accelerator Program](https://gazaskygeeks.com/coders-career-accelerator-course/) - Code Academy Graduate
+- 🥳️ [Coding Foundations Course](https://gazaskygeeks.com/coders-fundamentals-course/) graduate at [GSG](https://gazaskygeeks.com/)
 - 🔭 Open to learn new technologies
 
 
@@ -53,6 +54,8 @@
 <img src="https://img.shields.io/badge/-postman-F26634?style=for-the-badge&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/-Heroku-%236B48AF?style=for-the-badge&logo=heroku&logoColor=white" />
 <img src="https://img.shields.io/badge/-Figma-%2379D384?style=for-the-badge&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Graphql-%23DA0093?style=for-the-badge&logo=graphql" />
+<img src="https://img.shields.io/badge/-sequelize-%233A6FBB?style=for-the-badge&logo=sequelize" />
 
 ## Activity <img width="35" src="https://c.tenor.com/dWMRNxW7Ti4AAAAi/iota-tanglevision.gif" />
 <div align="center">
