@@ -12,9 +12,6 @@
     <a href="https://www.freecodecamp.org/zaher-aa">
     <img src="https://img.shields.io/badge/-freecodecamp-393939?style=for-the-badge&logo=freecodecamp&logoColor=white" />
     </a>
-    <a href="https://www.facebook.com/ZaherAbuAmr">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
 </p>
 
 ## Brief <img width="20" src="https://c.tenor.com/8McIGu0Tf_QAAAAi/fire-joypixels.gif" />
