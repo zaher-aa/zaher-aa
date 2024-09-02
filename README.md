@@ -1,4 +1,4 @@
-<h1 align="center">This is Zahir, a Software Dveloper Student <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
+<h1 align="center">This is Zaher, a Software Engineer <img width="35" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" /></h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/zaherabuamr">
     <img src="https://img.shields.io/badge/-linkedin-%230966C2?style=for-the-badge&logo=linkedin&logoColor=white" />
